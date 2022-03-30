@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.15.3
 #go build --ldflags "-extldflags -static" -o zeus
 COPY zeus /zeus
 COPY config /config
