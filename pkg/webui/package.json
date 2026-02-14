@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@ams-team/ams": "^0.18.4",
-    "axios": ">=0.18.1",
+    "axios": ">=1.13.5",
     "clipboard": "1.7.1",
     "codemirror": "5.39.2",
     "connect": "3.6.6",
@@ -48,7 +48,7 @@
     "jsoneditor": "^5.32.5",
     "jsonlint": "1.6.3",
     "jszip": "3.1.5",
-    "less": "^3.9.0",
+    "less": "^3.12.0",
     "mockjs": "1.0.1-beta3",
     "moment": "2.24.0",
     "normalize.css": "7.0.0",
